@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ExFragmentViewPager</string>
+
+    <string name="lorem_ipsum_1">
+        1) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vestibulum aliquam risus ac cursus congue.
+        Aenean volutpat ex at dolor porttitor, eu auctor dui dapibus.
+        Vivamus at urna sit amet arcu dictum commodo. Pellentesque egestas placerat erat et volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce libero ante, aliquet vel diam a, fermentum sagittis velit. Donec massa erat, lobortis sit amet rhoncus tincidunt, volutpat ut metus. Suspendisse risus nulla, lacinia vel nulla sed, porta aliquet ligula. Vestibulum euismod suscipit posuere. Aliquam ut risus nulla.
+    </string>
+
+    <string name="lorem_ipsum_2">
+        2) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vestibulum aliquam risus ac cursus congue.
+        Aenean volutpat ex at dolor porttitor, eu auctor dui dapibus.
+    </string>
+
+    <string name="lorem_ipsum_3">
+        3) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vivamus at urna sit amet arcu dictum commodo. Pellentesque egestas placerat erat et volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce libero ante, aliquet vel diam a, fermentum sagittis velit. Donec massa erat, lobortis sit amet rhoncus tincidunt, volutpat ut metus. Suspendisse risus nulla, lacinia vel nulla sed, porta aliquet ligula. Vestibulum euismod suscipit posuere. Aliquam ut risus nulla.
+    </string>
+
+    <string name="lorem_ipsum_4">
+        4) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Aenean volutpat ex at dolor porttitor, eu auctor dui dapibus.
+        Vivamus at urna sit amet arcu dictum commodo. Pellentesque egestas placerat erat et volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce libero ante, aliquet vel diam a, fermentum sagittis velit. Donec massa erat, lobortis sit amet rhoncus tincidunt, volutpat ut metus. Suspendisse risus nulla, lacinia vel nulla sed, porta aliquet ligula. Vestibulum euismod suscipit posuere. Aliquam ut risus nulla.
+    </string>
+
+    <string name="lorem_ipsum_5">
+        5) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vestibulum aliquam risus ac cursus congue.
+        Aenean volutpat ex at dolor porttitor, eu auctor dui dapibus.
+        Vivamus at urna sit amet arcu dictum commodo. Pellentesque egestas placerat erat et volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce libero ante, aliquet vel diam a, fermentum sagittis velit. Donec massa erat, lobortis sit amet rhoncus tincidunt, volutpat ut metus. Suspendisse risus nulla, lacinia vel nulla sed, porta aliquet ligula. Vestibulum euismod suscipit posuere. Aliquam ut risus nulla.
+    </string>
+
+</resources>
